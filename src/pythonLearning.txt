@@ -1,0 +1,3 @@
+Python is an object oriented scripting language
+There is no backward compatibility
+One integer type
